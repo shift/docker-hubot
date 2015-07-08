@@ -12,5 +12,7 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-google-hangouts"
+  "hubot-google-hangouts",
+  "hubot-github-identity",
+  "hubot-github-issues"
 ]

@@ -21,7 +21,9 @@
     "hubot-sendgrid": "0.2.0",
     "hubot-newrelic2": "0.2.4",
     "hubot-google-hangouts": "0.7.1",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "hubot-github-identity": "*",
+    "hubot-github-issues": "*"
   },
   "engines": {
     "node": "0.10.x"
