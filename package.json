@@ -23,7 +23,9 @@
     "hubot-google-hangouts": "0.7.1",
     "hubot-youtube": "^0.1.2",
     "hubot-github-identity": "*",
-    "hubot-github-issues": "*"
+    "hubot-github-issues": "*",
+    "hubot-google-analytics": "*",
+    "hubot-slack-webhook": "*"
   },
   "engines": {
     "node": "0.10.x"
