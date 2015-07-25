@@ -17,5 +17,6 @@
   "hubot-github-issues",
   "hubot-google-analytics",
   "hubot-slack-webhook",
-  "hubot-drone-webhook"
+  "hubot-drone-webhook",
+  "hubot-github-repo-event-notifier"
 ]

@@ -26,7 +26,8 @@
     "hubot-github-issues": "*",
     "hubot-google-analytics": "*",
     "hubot-slack-webhook": "*",
-    "hubot-drone-webhook": "*"
+    "hubot-drone-webhook": "*",
+    "hubot-github-repo-event-notifier": "*"
   },
   "engines": {
     "node": "0.10.x"
